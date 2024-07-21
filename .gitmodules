@@ -1,0 +1,6 @@
+[submodule "MathExpressionParser"]
+	path = MathExpressionParser
+	url = https://github.com/LordofCreepers/MathExpressionParser/
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/doctest/doctest
