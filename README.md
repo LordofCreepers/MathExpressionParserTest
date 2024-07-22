@@ -5,5 +5,6 @@ Unit test coverage of https://github.com/LordofCreepers/MathExpressionParser usi
 ```
 git clone https://github.com/LordofCreepers/MathExpressionParserTest
 cd MathExpressionParserTest
+git submodule update --init --recursive --remote
 cmake .
 ```
